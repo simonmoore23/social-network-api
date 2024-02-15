@@ -53,4 +53,5 @@ I worked on this project with Graham McCullough [Github](https://github.com/Grah
 
 ## Links
 
-[Click Here to Watch](https://drive.google.com/file/d/1JzApSDnmJpDlDjgQFLhEGqCtgUJZwvJZ/view)
+- [Click Here to Watch Walkthrough Video](https://drive.google.com/file/d/1JzApSDnmJpDlDjgQFLhEGqCtgUJZwvJZ/view)
+- [Github](https://github.com/simonmoore23/social-network-api)
