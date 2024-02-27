@@ -51,6 +51,8 @@ To install necessary dependencies, navigate to the root directory and run the fo
 
 I worked on this project with Graham McCullough [Github](https://github.com/Grahamy27)
 
+Also acknowledging [Neshawhit ](https://github.com/Neshawhit) who I sourced some code from for the thought controller but it is fully commented toi show workings.
+
 ## Links
 
 - [Click Here to Watch Walkthrough Video](https://drive.google.com/file/d/1JzApSDnmJpDlDjgQFLhEGqCtgUJZwvJZ/view)
